@@ -4,6 +4,17 @@ While the project is currently not open source, this git will serve as a public 
 
 Please report any bugs you encounter and feel free to add any feature requests.
 
+Version 1.3.2 released on 12 Jun 2026
+
+	• Added support for touchscreen and single button mouse input.
+	• Improved performance when removing models.
+	• Updated version checker to check for latest version only once per session, if enabled.
+	• Fixed clipping plane slider resetting when window was resized.
+
+Version 1.3.1 released on 27 Oct 2025
+
+	• Updated the Unity runtime library to address security vulnerability (CVE-2025-59489).
+
 Version 1.3.0 released on 28 Feb 2025
 
 	• Updated error reporting when importing an invalid model.
